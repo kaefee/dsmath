@@ -2,7 +2,7 @@
 
 
 
-## Promedio
+## Promedio :
 
 
 El promedio $\bar{x}$ de un conjunto de datos $x_1$
