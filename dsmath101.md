@@ -14,7 +14,7 @@ $\bar{x} = \frac{1}{n} \sum_{i=1}^{n} x_i$
 
 Varianza:
 
-$\sigma^2 = \frac{1}{N} \sum_{i=1}^{N} (x_i - \mu)^2
+$\sigma^2 = \frac{\sum_{i=1}^{N} (x_i - \bar{x})^2}{N} 
 
 Covarianza: 
 
