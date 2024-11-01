@@ -174,9 +174,11 @@ La distribución normal para una variable $x$ está dada por la ecuación:
 
 $X \sim \frac{1}{\sqrt{2\pi\sigma^2}}\exp{-\frac{(x_i-\mu_x)^2}{2\sigma^2}}$
 
+========
 
 ## Juan Merchan
 
+**Varianza**
 
 La varianza poblacional $\sigma^2$ de un conjunto de datos $x_i$ se calcula según la ecuación:
 
