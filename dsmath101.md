@@ -173,3 +173,17 @@ $cov(x,y) = \frac{\sum_{i=1}^n((x_i-\mu_{x})(y_i-\mu_{y}))}{n}$
 La distribución normal para una variable $x$ está dada por la ecuación:
 
 $X \sim \frac{1}{\sqrt{2\pi\sigma^2}}\exp{-\frac{(x_i-\mu_x)^2}{2\sigma^2}}$
+
+## SERGIO PRIETO
+
+
+varianza:
+$\sigma^2 = \frac{\sum_{i=1}^{N} (x_i - \bar{x})^2}{N}$
+
+Covarianza: 
+$\text{Cov}(X, Y) = \frac{1}{n-1} \sum_{i=1}^{n} (x_i - \bar{x})(y_i - \bar{y})$
+
+
+Distribucion normal:
+$f(x) = \frac{1}{\sqrt{2 \pi \sigma^2}} e^{-\frac{(x - \mu)^2}{2 \sigma^2}}$
+
